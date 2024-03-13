@@ -8,15 +8,16 @@ width: 30px;
     font-style: oblique ; 
     } 
 
-    div {
-        font-family: Arial, sans-serif; 
-        background-color: rgb(239, 182, 113);
-        color: blueviolet; 
-        margin: 20px;
-    }
-
     .contenedor{
-display: flex; 
+        background-color: rgb(238, 179, 159) ;
+        text-align: center;
+        width:max-content;
+        font-size: 20px;
+
+        display: flex;
+        border: 2px solid black;
+        
+
     }
 
     .titulocentro {
